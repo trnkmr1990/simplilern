@@ -17,3 +17,5 @@ git commit -m "First simplilearn commit" - this is used to commit to staging are
  git remote add origin https://github.com/HarshaKhande/SimplilearnGitProject.git - establishing the coonection with the remote repostitory
 
 git push -u origin main - this is to push the data to remote repo
+
+//Tarun
