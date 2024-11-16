@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 git --version - to fetch the version of git
 
  git config --global user.name "HarshaKhande" - configure github username
@@ -20,4 +19,3 @@ git commit -m "First simplilearn commit" - this is used to commit to staging are
 git push -u origin main - this is to push the data to remote repo
 
 //Tarun
-//shweta
