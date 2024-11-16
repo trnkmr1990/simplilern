@@ -1,2 +1,19 @@
-dddddd
-asdfasdfasdf
+git --version - to fetch the version of git
+
+ git config --global user.name "HarshaKhande" - configure github username
+
+ git config --global user.email "hkhande@gmail.com" - configure github email id
+
+git init - initilaize the git repository
+
+git add - add the files from the workding dir to staging area
+
+git add a.txt - this will add names file
+
+git add . - add all the files this will add all the files
+
+git commit -m "First simplilearn commit" - this is used to commit to staging area. the files are tracked from here.
+
+ git remote add origin https://github.com/HarshaKhande/SimplilearnGitProject.git - establishing the coonection with the remote repostitory
+
+git push -u origin main - this is to push the data to remote repo
